@@ -2,9 +2,14 @@
 
 ### Sources
 
+https://youtu.be/Aq5HXTGUHGI?si=AudOMziisinUzGjm
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/Aq5HXTGUHGI/0.jpg)](https://youtu.be/Aq5HXTGUHGI?si=AudOMziisinUzGjm "F-16 Cockpit, avionics and radar")
+
 https://static.e-publishing.af.mil/production/1/af_a3/publication/afman11-2f-16v3/afman11-2f-16v3.pdf
 
 ![Screenshot 2024-02-12 162312](https://github.com/GBU31/F16_FCR_SIM_OGL3D/assets/86805843/889a11ff-bb05-4959-b4e5-2503dce0b7e8)
+
 
 
 
