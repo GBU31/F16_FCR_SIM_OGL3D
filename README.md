@@ -2,6 +2,12 @@
 
 ### Sources
 
+https://static.e-publishing.af.mil/production/1/af_a3/publication/afman11-2f-16v3/afman11-2f-16v3.pdf
+
+![Screenshot 2024-02-12 162312](https://github.com/GBU31/F16_FCR_SIM_OGL3D/assets/86805843/889a11ff-bb05-4959-b4e5-2503dce0b7e8)
+
+
+
 https://man.fas.org/dod-101/sys/ac/docs/16v5.pdf
 
 ![FCR1](https://github.com/GBU31/F16_FCR_SIM_OGL3D/assets/86805843/405f6671-dc3e-45a3-8e62-e3ed5376cbf8)
